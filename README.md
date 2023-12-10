@@ -46,3 +46,5 @@ https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-nextjs-hybrid
 using standalone:
 
 Additionally, a minimal server.js file is also output which can be used instead of next start. This minimal server does not copy the public or .next/static folders by default as these should ideally be handled by a CDN instead, although these folders can be copied to the standalone/public and standalone/.next/static folders manually, after which server.js file will serve these automatically.
+
+https://thankful-forest-06114b01e.3.azurestaticapps.net

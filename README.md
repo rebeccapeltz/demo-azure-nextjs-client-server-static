@@ -48,3 +48,14 @@ using standalone:
 Additionally, a minimal server.js file is also output which can be used instead of next start. This minimal server does not copy the public or .next/static folders by default as these should ideally be handled by a CDN instead, although these folders can be copied to the standalone/public and standalone/.next/static folders manually, after which server.js file will serve these automatically.
 
 https://thankful-forest-06114b01e.3.azurestaticapps.net
+
+copying for standalone
+https://tech.competa.com/standalone-deployment-of-nextjs-3286490cb39b
+
+Copy public from your project to public in the new folder 
+Copy .next/static from your project to .next/static in the new folder
+Copy .next/standalone into the root of the new folder
+
+```
+cp 
+```

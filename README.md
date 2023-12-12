@@ -52,10 +52,13 @@ https://thankful-forest-06114b01e.3.azurestaticapps.net
 copying for standalone
 https://tech.competa.com/standalone-deployment-of-nextjs-3286490cb39b
 
-Copy public from your project to public in the new folder 
-Copy .next/static from your project to .next/static in the new folder
+Copy public from your project to public in the standalone/.next/ folder 
+Copy .next/static from your project to standalone/.next/static in the .next folder
 Copy .next/standalone into the root of the new folder
+
+run `node .next/standalone/server.js`
 
 ```
 cp 
 ```
+"next": "13.4.8",

@@ -3,7 +3,7 @@ import Link from 'next/link'
 function PeopleList({ people }) {
   return (
     <>
-      <h1>List of People</h1>
+      <h1>List of People v14.0.2</h1>
       {people.map(person => {
         return (
           <div key={person.id}>

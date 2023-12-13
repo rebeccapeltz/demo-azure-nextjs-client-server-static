@@ -61,4 +61,8 @@ run `node .next/standalone/server.js`
 ```
 cp 
 ```
+
 "next": "13.4.8",
+  "engines": {
+    "node": ">=18.17.0"
+} 

@@ -62,7 +62,9 @@ run `node .next/standalone/server.js`
 cp 
 ```
 
-"next": "13.4.8",
+"next": "14.0.4",
   "engines": {
     "node": ">=18.17.0"
 } 
+
+https://github.com/rebeccapeltz/demo-azure-nextjs-client-server-static/actions
